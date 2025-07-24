@@ -66,6 +66,7 @@ HTMLText_4EF5C34F_7FCE_2159_41D1_9829A87E30A9.html = <div style="text-align:left
 ## Tour
 
 ### Description
+tour.description = کارخانه شیشه دوجداره فاطر
 
 ### Title
-tour.name = Untitled 4
+tour.name = کارخانه شیشه دوجداره فاطر
